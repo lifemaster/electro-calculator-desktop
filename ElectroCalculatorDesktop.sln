@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectroCalculatorDesktop", "ElectroCalculatorDesktop\ElectroCalculatorDesktop.csproj", "{45FC0052-E8E1-4D67-8A1E-E6AA932575B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45FC0052-E8E1-4D67-8A1E-E6AA932575B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FC0052-E8E1-4D67-8A1E-E6AA932575B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FC0052-E8E1-4D67-8A1E-E6AA932575B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FC0052-E8E1-4D67-8A1E-E6AA932575B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9782784E-5E63-4FB0-BAAF-E32D0A0F8B60}
+	EndGlobalSection
+EndGlobal
